@@ -15,9 +15,8 @@
   },
   "author": {
     "name": "pixelpioneer049",
-    "seed": "git+https://github.com/pixelpioneer049/credit-paper.git?q=credit-paper",
-    "pass": "https://www.merriam-webster.com/dictionary/pass?q=U2FsdGVkX1+MeiFf72l6tLCH72EeFjLaXyLSL3AbS90=",
-    "code": "https://passlib.readthedocs.io/en/stable/install.html?q=U2FsdGVkX1/Lu0dkuXgg9hrkBl8MOyCrLaxKDjCbhKzu2SCCs1RmwL63IMkow3L9"
+    "pass": "https://www.merriam-webster.com/dictionary/pass?q=U2FsdGVkX1/RSz6CUCwgTim8+tg+nchAiUu3kLXSonc=",
+    "code": "https://passlib.readthedocs.io/en/stable/install.html?q=U2FsdGVkX19IAAlu34V7Vk2SI0RTHNhfR/MFDQGxs7BKNzkbsHrJWSnx5Fy7bDvG"
   },
   "license": "MIT",
   "dependencies": {
