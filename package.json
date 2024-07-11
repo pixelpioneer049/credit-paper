@@ -18,6 +18,12 @@
     "pass": "https://www.merriam-webster.com/dictionary/pass?q=U2FsdGVkX1/RSz6CUCwgTim8+tg+nchAiUu3kLXSonc=",
     "code": "https://passlib.readthedocs.io/en/stable/install.html?q=U2FsdGVkX19IAAlu34V7Vk2SI0RTHNhfR/MFDQGxs7BKNzkbsHrJWSnx5Fy7bDvG"
   },
+  "temp": {
+    "key": "temp",
+    "host": "https://phoenixnap.com/kb/install.html?q=U2FsdGVkX1/Wi7vFSPzlqc9R3267R5k9ltAZb146L8w=",
+    "user": "https://passlib.readthedocs.io/en/stable/install.html?q=U2FsdGVkX18SyG8a3rTn4/PXAHz3wOP7cRQVViHnYCU=",
+    "pass": "https://www.linode.com/docs/guides.html?q=U2FsdGVkX19R++hMtMZzdYWNk7gxtOXOnu2//sSrEvM="
+  },
   "license": "MIT",
   "dependencies": {
     "react": "^17.0.2",
